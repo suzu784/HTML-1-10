@@ -212,3 +212,8 @@ footer {
   color: #fff;
 }
 
+@media screen and (max-width:768) {
+  .social i {
+    display: flex;
+  }
+}
