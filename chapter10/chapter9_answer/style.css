@@ -65,9 +65,3 @@ footer {
   background-color: #aaa;
 }
 
-@media screen and (max-width:768px) {
-  .social i {
-    display: flex;
-    flex-direction: column;
-  }
-}
