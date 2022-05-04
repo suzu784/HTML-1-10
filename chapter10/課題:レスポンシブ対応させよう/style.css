@@ -70,4 +70,8 @@ footer {
     display: flex;
     flex-direction: column;
   }
+
+  .step-box {
+    width: 90%;
+  }
 }
