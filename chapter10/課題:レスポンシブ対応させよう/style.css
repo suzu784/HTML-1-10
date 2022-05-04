@@ -66,12 +66,34 @@ footer {
 }
 
 @media screen and (max-width:768px) {
+
+
   main {
     display: flex;
     flex-direction: column;
+    width: 100%;
   }
-
   .step-box {
     width: 90%;
+  }
+
+  .step-box:nth-child(2) {
+    margin-top: 20px;
+  }
+
+  .step-box:nth-child(3) {
+    margin-top: 20px;
+  }
+
+  .step-img1 {
+    height: 150px;
+  }
+
+  .step-img2 {
+    height: 150px;
+  }
+
+  .step-img3 {
+    height: 150px;
   }
 }
